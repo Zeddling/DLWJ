@@ -1,10 +1,10 @@
 package org.dlwj.SingleLayerNeuralNetworks;
 
-import org.dlwj.util.GaussianDistribution;
+import org.dlwj.SingleLayerNeuralNetworks.util.GaussianDistribution;
 
 import java.util.Random;
 
-import static org.dlwj.util.ActivationFunction.step;
+import static org.dlwj.SingleLayerNeuralNetworks.util.ActivationFunction.step;
 
 public class Perceptron {
     private final int train_N;    //  size of training data

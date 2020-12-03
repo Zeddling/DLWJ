@@ -1,4 +1,4 @@
-package org.dlwj;
+package org.dlwj.SingleLayerNeuralNetworks;
 
 import org.dlwj.SingleLayerNeuralNetworks.Perceptron;
 
@@ -6,7 +6,7 @@ import org.dlwj.SingleLayerNeuralNetworks.Perceptron;
  * Hello world!
  *
  */
-public class App {
+public class SingleLayerNeuralNetworksApp {
 
     public static void main( String[] args ) {
         Perceptron perceptron = new Perceptron(1000, 200, 2, 2000, 1);

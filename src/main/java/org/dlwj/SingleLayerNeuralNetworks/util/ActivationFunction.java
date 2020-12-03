@@ -1,4 +1,4 @@
-package org.dlwj.util;
+package org.dlwj.SingleLayerNeuralNetworks.util;
 
 public final class ActivationFunction {
 
